@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Question3
+comment1.params=num
+comment1.target=java.util.ArrayList\ BigInt(java.lang.String)
+comment2.params=a\ b
+comment2.target=java.lang.String\ AddBigInt(java.util.ArrayList,\ java.util.ArrayList)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4
